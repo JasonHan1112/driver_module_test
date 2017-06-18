@@ -1,0 +1,2 @@
+/home/xueqing/Documents/Projects/moduleCode/moduleMiscDriverRegist/moduleMiscDriverRegist.ko
+/home/xueqing/Documents/Projects/moduleCode/moduleMiscDriverRegist/moduleMiscDriverRegist.o

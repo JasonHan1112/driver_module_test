@@ -1,0 +1,1 @@
+cmd_/home/xueqing/Documents/Projects/moduleCode/moduleUbuntuTest/moduleTest/module.o := ld -m elf_x86_64   -r -o /home/xueqing/Documents/Projects/moduleCode/moduleUbuntuTest/moduleTest/module.o /home/xueqing/Documents/Projects/moduleCode/moduleUbuntuTest/moduleTest/moduleTest.o 
