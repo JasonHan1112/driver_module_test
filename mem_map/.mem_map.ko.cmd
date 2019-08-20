@@ -1,0 +1,1 @@
+cmd_/home/xueqing/Documents/kernel/driver/mem_map/mem_map.ko := ld -r -m elf_x86_64  -z max-page-size=0x200000 -T /usr/src/linux-headers-4.9.0-8-common/scripts/module-common.lds --build-id  -o /home/xueqing/Documents/kernel/driver/mem_map/mem_map.ko /home/xueqing/Documents/kernel/driver/mem_map/mem_map.o /home/xueqing/Documents/kernel/driver/mem_map/mem_map.mod.o ;  true
