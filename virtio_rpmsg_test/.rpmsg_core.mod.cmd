@@ -1,0 +1,1 @@
+cmd_/home/sensetime/Documents/kernel/driver_test/virtio_rpmsg_test/rpmsg_core.mod := { echo  /home/sensetime/Documents/kernel/driver_test/virtio_rpmsg_test/rpmsg_core.o; echo; } > /home/sensetime/Documents/kernel/driver_test/virtio_rpmsg_test/rpmsg_core.mod

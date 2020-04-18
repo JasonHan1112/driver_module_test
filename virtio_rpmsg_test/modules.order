@@ -1,0 +1,3 @@
+/home/sensetime/Documents/kernel/driver_test/virtio_rpmsg_test/virtio_rpmsg_bus.ko
+/home/sensetime/Documents/kernel/driver_test/virtio_rpmsg_test/rpmsg_char.ko
+/home/sensetime/Documents/kernel/driver_test/virtio_rpmsg_test/rpmsg_core.ko
